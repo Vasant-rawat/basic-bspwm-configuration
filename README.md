@@ -1,3 +1,6 @@
+Let me help you format this correctly for GitHub markdown. Here's the properly formatted version:
+
+```markdown
 # Minimalist BSPWM Configuration 🚀
 
 A clean and efficient bspwm setup focused on simplicity and productivity. This configuration provides a lightweight tiling window manager experience on Linux.
@@ -32,3 +35,30 @@ A clean and efficient bspwm setup focused on simplicity and productivity. This c
    ```bash
    # Base packages
    sudo pacman -S bspwm sxhkd polybar alacritty
+   ```
+
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/Vasant-rawat/basic-bspwm-configuration.git
+   ```
+
+3. Copy configurations to your `.config` directory:
+   ```bash
+   cp -r * ~/.config/
+   ```
+
+## 📝 Notes
+
+This is a work in progress as I continue learning and customizing my Linux environment. Feel free to use this as a starting point for your own configuration.
+
+## 📸 Screenshots
+
+![Screenshot](https://github.com/user-attachments/assets/0cd51385-fa63-4024-8c16-8a7a95a435d7)
+
+## 🤝 Contributing
+
+Feel free to submit issues and pull requests for improvements or bug fixes.
+```
+
+
+
