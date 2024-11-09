@@ -1,6 +1,6 @@
-Let me help you format this correctly for GitHub markdown. Here's the properly formatted version:
 
-```markdown
+
+
 # Minimalist BSPWM Configuration 🚀
 
 A clean and efficient bspwm setup focused on simplicity and productivity. This configuration provides a lightweight tiling window manager experience on Linux.
@@ -58,7 +58,7 @@ This is a work in progress as I continue learning and customizing my Linux envir
 ## 🤝 Contributing
 
 Feel free to submit issues and pull requests for improvements or bug fixes.
-```
+
 
 
 
